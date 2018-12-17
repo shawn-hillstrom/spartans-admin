@@ -2,7 +2,7 @@
 
 ## About
 
-Spartan's Admin is an administrative system built for use in Roblox's game development environment. The system allows priviledged users to administrate their games using a variety of chat commands. These commands are detailed in **Spartans_Admin_[Beta].lua** under the **[Variables & other necessities]** section.
+Spartan's Admin is an administrative system built for use in Roblox's game development environment. The system allows priviledged users to administrate their games using a variety of commands. These commands are detailed in **Spartans_Admin_[Beta].lua** under the **[Variables & other necessities]** section.
 
 **NOTE:** This code is out of date with the newest version of Roblox's development environment and may not perform as intended.
 
@@ -30,4 +30,4 @@ Additionally, Spartan's Admin requires several child GUI objects. These GUIs mus
 
 ## Future Development
 
-Future development plans include adding more commands and updating the current system to conform with the newest features in Roblox's development libraries and APIs.
+Future development plans include adding more commands and updating the current system to conform with the newest features in Roblox's development environment.
